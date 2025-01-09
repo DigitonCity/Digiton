@@ -6,7 +6,7 @@ Digiton was launched back in 1989 developed by the legendary game designer Will 
 
 This project was developed for the solana hackathon but scence we found out about it so late we were not able to submit it
 
-![Screenshot 2025-01-09 154707](https://github.com/user-attachments/assets/bdf26766-7c15-4ff2-8bda-1efc9c53bc72)
+![Screenshot 2025-01-09 154707](https://github.com/user-attachments/assets/9616673d-3b0e-4dc2-8c2c-7485ae45c65c)
 
 ## How it works
 
