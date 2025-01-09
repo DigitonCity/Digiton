@@ -1,0 +1,17 @@
+fragment InputNotice on Notice {
+    index
+    payload
+}
+
+query InputNotices($inputIndex: Int!) {
+    input(index: $inputIndex) {
+        status
+        notices {
+            edges {
+                node {
+                    ...InputNotice
+                }
+            }
+        }
+    }
+}
